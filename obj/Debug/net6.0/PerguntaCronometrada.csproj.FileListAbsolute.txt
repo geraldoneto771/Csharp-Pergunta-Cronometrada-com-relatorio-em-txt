@@ -1,0 +1,15 @@
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\obj\Debug\net6.0\PerguntaCronometrada.csproj.AssemblyReference.cache
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\obj\Debug\net6.0\PerguntaCronometrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\obj\Debug\net6.0\PerguntaCronometrada.AssemblyInfoInputs.cache
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\obj\Debug\net6.0\PerguntaCronometrada.AssemblyInfo.cs
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\obj\Debug\net6.0\PerguntaCronometrada.csproj.CoreCompileInputs.cache
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\bin\Debug\net6.0\PerguntaCronometrada.exe
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\bin\Debug\net6.0\PerguntaCronometrada.deps.json
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\bin\Debug\net6.0\PerguntaCronometrada.runtimeconfig.json
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\bin\Debug\net6.0\PerguntaCronometrada.dll
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\bin\Debug\net6.0\PerguntaCronometrada.pdb
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\obj\Debug\net6.0\PerguntaCronometrada.dll
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\obj\Debug\net6.0\refint\PerguntaCronometrada.dll
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\obj\Debug\net6.0\PerguntaCronometrada.pdb
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\obj\Debug\net6.0\PerguntaCronometrada.genruntimeconfig.cache
+C:\Csharp\Projetos Balta-IO\Projeto-Pergunta-Cronometrada-com-relatorio-em-txt\PerguntaCronometrada\obj\Debug\net6.0\ref\PerguntaCronometrada.dll
